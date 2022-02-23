@@ -83,7 +83,7 @@ html{
 #slider{
     margin-top: 46px;
     padding-top: 50%;
-    background-image: url(./Image/chicago.jpg);
+    background-image: url("./Image/chicago.jpg");
     background-position: top center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -461,7 +461,7 @@ html{
     padding: 0 !important;
     margin: 0 !important;
     height: 850px;
-    background-image: url(./Image/map.jpg);
+    background-image: url("./Image/map.jpg");
     background-size: cover;
 }
 
